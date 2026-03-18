@@ -1,0 +1,11 @@
+*.pdf
+*.docx
+*.csv
+__pycache__/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.DS_Store
